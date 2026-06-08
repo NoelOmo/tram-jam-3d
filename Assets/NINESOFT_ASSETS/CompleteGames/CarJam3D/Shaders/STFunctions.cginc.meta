@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd04a86ca133d4c3e9fbcec891df47ee
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283280
+  packageName: Car Jam 3D | Complete Game (Easy to level + Admob)
+  packageVersion: 1.0.1
+  assetPath: Assets/NINESOFT_ASSETS/CompleteGames/CarJam3D/Shaders/STFunctions.cginc
+  uploadId: 688101

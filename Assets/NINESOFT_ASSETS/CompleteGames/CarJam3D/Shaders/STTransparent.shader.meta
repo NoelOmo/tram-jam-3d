@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 481153b840b6e408da95e6afbe176397
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283280
+  packageName: Car Jam 3D | Complete Game (Easy to level + Admob)
+  packageVersion: 1.0.1
+  assetPath: Assets/NINESOFT_ASSETS/CompleteGames/CarJam3D/Shaders/STTransparent.shader
+  uploadId: 688101

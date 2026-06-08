@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 016b782f6bbd8054cbd7040e5f8b6e73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283280
+  packageName: Car Jam 3D | Complete Game (Easy to level + Admob)
+  packageVersion: 1.0.1
+  assetPath: Assets/NINESOFT_ASSETS/CompleteGames/CarJam3D/Scripts/Managers/PoolManager.cs
+  uploadId: 688101

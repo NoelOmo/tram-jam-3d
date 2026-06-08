@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ed5e75983b5427f4b8e1141a479a283a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283280
+  packageName: Car Jam 3D | Complete Game (Easy to level + Admob)
+  packageVersion: 1.0.1
+  assetPath: Assets/NINESOFT_ASSETS/CompleteGames/CarJam3D/Scripts/Objects/FlyingBlockUI.cs
+  uploadId: 688101

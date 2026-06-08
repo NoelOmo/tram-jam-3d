@@ -1,0 +1,2 @@
+Asset uses [Lilita One FONT] under [Assets\NINESOFT_ASSETS\CompleteGames\CarJam3D\Fonts\FONT_LICENSE] [more details: https://openfontlicense.org]
+Asset uses [Text Mesh Pro]

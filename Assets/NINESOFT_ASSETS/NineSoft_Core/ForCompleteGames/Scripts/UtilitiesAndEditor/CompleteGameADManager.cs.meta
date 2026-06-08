@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd6fb34162a86ed49b5b48b5746a4eb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283280
+  packageName: Car Jam 3D | Complete Game (Easy to level + Admob)
+  packageVersion: 1.0.1
+  assetPath: Assets/NINESOFT_ASSETS/NineSoft_Core/ForCompleteGames/Scripts/UtilitiesAndEditor/CompleteGameADManager.cs
+  uploadId: 688101
