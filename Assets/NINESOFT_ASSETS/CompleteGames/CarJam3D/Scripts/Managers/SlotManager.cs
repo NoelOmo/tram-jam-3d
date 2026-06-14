@@ -8,7 +8,7 @@ namespace NINESOFT.COMPLETEGAMES.CARJAM3D
     public class SlotManager : Manager<SlotManager>
     {
         [SerializeField] private List<Slot> Slots;
-        [SerializeField] private int lockedSlotCount = 3;
+        [SerializeField] private int lockedSlotCount = 2;
 
         private void Start()
         {
